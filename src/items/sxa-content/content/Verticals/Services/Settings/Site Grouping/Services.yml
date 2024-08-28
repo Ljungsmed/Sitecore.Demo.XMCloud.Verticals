@@ -7,6 +7,9 @@ SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
   Value: "{57F2E85D-D695-4E6C-8C89-947CE5443E2E}"
+- ID: "301e719a-6f65-4874-b565-a953a7b5ac83"
+  Hint: OtherProperties
+  Value: isSiteThumbnailSource=true
 - ID: "6dd8a774-2ce5-4c9e-be7f-1eaf65789956"
   Hint: ThumbnailsRootPath
   Value: /sitecore/media library/Project/Verticals/Services
@@ -35,7 +38,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dabbc4b8-a0b6-4f10-8629-bbf134e333dc"
+      Value: "a1d94d93-3ff0-450d-9512-7b2912a35756"
     - ID: "96cffc48-0bd5-4f70-9b36-d49c844d51ef"
       Hint: Theme
       Value: Services
